@@ -8,8 +8,10 @@
 - ⚡ Fun fact: **I enjoy listening to podcasts for daily inspiration and tech related contents while sipping a cup of homemade matcha tea.**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/sarah-saballa-315053185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sarah-saballa-315053185" height="30" width="40" /></a>
+</p>
 
-[LinkedIn](www.linkedin.com/in/sarah-saballa-315053185)
 
 
 <p align="left">
