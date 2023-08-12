@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarah</h1>
 <h3 align="center">A passionate code newbie pursuing a frontend web developer career. I'm based in Chicago area.</h3>
 
-- 🔭 I’m currently working on [Edge of Wander 2023](www.edgeofwander2023.com)
+- 🔭 I’m currently working on [Edge of Wander 2023]( www.edgeofwander2023.com )
 
 - 🌱 I’m currently learning **Javascript**
 
