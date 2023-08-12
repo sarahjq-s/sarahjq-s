@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- ⚡ Fun fact **I enjoy listening to podcasts for daily inspiration and for tech related contents while sipping a cup of homemade matcha tea.**
+- ⚡ Fun fact: **I enjoy listening to podcasts for daily inspiration and tech related contents while sipping a cup of homemade matcha tea.**
 
 <h3 align="left">Connect with me:</h3>
 LinkedIn - www.linkedin.com/in/sarah-saballa-315053185
