@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarah</h1>
-<h3 align="center">A passionate code newbie pursuing a frontend web developer career, based in Chicago metro area.</h3>
+<h3 align="center">A passionate code newbie pursuing a frontend web developer career.</h3>
 
 - 🔭 I’m currently working on [Edge of Wander 2023]( https://github.com/sarahjq-s/edge-of-wander-event )
 
