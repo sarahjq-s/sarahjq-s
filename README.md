@@ -8,11 +8,11 @@
 - ⚡ Fun fact: **I enjoy listening to podcasts for daily inspiration and tech related contents while sipping a cup of homemade matcha tea.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<a href="https://instagram.com/sarahjq.s_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarahjq.s_dev" height="30" width="40" />Documenting #100DaysofCode </a>
+</p>  
 <a href="https://www.linkedin.com/in/sarah-saballa-315053185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sarah-saballa-315053185" height="30" width="40" /></a>
 </p>
-
-
 
 <p align="left">
 </p>
