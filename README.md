@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on some [Frontend Mentor challenges](https://www.frontendmentor.io/challenges)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript** at [Scrimba](https://scrimba.com/learn/learnjavascript)
 
 - ⚡ Fun fact: **I enjoy listening to podcasts for daily inspiration and tech related contents while sipping a cup of homemade matcha tea.**
 
