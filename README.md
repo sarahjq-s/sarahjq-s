@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript** at [Scrimba](https://scrimba.com/learn/learnjavascript)
 
-- ⚡ Fun fact: **I enjoy listening to podcasts for daily inspiration and tech related contents while sipping a cup of homemade matcha tea.**
-
+- ⚡ Fun fact: **I enjoy listening to podcasts for daily inspiration and tech related contents while sipping a cup of homemade matcha tea. I also enjoy traveling and joining charity and fundraising events.**
 <h3 align="left">Connect with me!</h3>
 
 <a href="https://instagram.com/sarahjq.s_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarahjq.s_dev" height="30" width="40" />Documenting #100DaysofCode </a>
